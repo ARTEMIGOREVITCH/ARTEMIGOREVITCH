@@ -1,5 +1,5 @@
-- Hi, I’m @ARTEMIGOREVITCH
-- I’m interested in ML
+- Hi, I’m @ArtemIDD
+- I’m interested in Python and ML
 - I’m  study python on my own
 - You can only wish me luck =)
 
